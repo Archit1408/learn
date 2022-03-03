@@ -1,0 +1,14 @@
+eaa-schema-be:6.4.0.24
+etp-schema:6.4.0.40
+etp-schema-answerx:6.4.0.40
+etp-schema-avc:6.4.0.23
+etp-schema-be:5.0.0.165
+etp-schema-dp:5.0.0.271
+etp-schema-feeds:6.4.0.32
+etp-schema-intel:6.4.0.17
+etp-schema-ioc:6.4.0.29
+etp-schema-logic:6.4.0.32
+etp-schema-nevada:6.4.0.40
+etp-schema-reports:6.4.0.40
+etp-schema-webroot:5.0.0.215
+infra-schema:5.0.0.17
