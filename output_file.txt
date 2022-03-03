@@ -1,0 +1,3 @@
+ 'edgescape-importer-app': '6.0.0.400',
+{'accumulator-compaction-app': '6.0.0.400',
+ 'service-placement-manager-app': '6.0.0.400'}
